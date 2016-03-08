@@ -1,0 +1,11 @@
+{
+    "author": {
+        "name": "Mislav Javor",
+        "url": "www.mislavjavor.com",
+        "email": "mislav.javor@outlook.com"
+    },
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "^4.11.0"
+    }
+}
